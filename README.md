@@ -1,2 +1,2 @@
 # jS
-JS1 from beginner to Advanced Level this is fraud
+JS0 from beginner to Advanced Level this is fraud
